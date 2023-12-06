@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  
+}
+
+p{
+  margin-bottom: 0;
+}
+html, body{
+  scroll-behavior: smooth;
+  background-color: #fff;
+  background-image: url("https://i2.wp.com/www.123freevectors.com/wp-content/original/106399-pink-and-green-spiral.jpg");
+  /* background-image: url("https://i.pinimg.com/originals/cf/61/c9/cf61c94dd5492b262533d95a8fbc71f5.jpg");  */
+  /* background-image: url("https://th.bing.com/th/id/OIP.C2plMcJIth_txqfJ3DiAcAHaLH?pid=ImgDet&w=193&h=289&c=7&dpr=1.5"); */
+  /* background-position: right top; */
+  /* background-repeat: no-repeat; */
+}
